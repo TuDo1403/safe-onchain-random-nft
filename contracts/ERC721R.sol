@@ -8,7 +8,7 @@ import "@openzeppelin/contracts-upgradeable/token/ERC721/presets/ERC721PresetMin
 
 import "./interfaces/IERC721R.sol";
 
-/// @custom:security-contact tudo.dev4@gmail.com
+/// @custom:security-contact tudo.dev@gmail.com
 contract ERC721R is
     IERC721R,
     UUPSUpgradeable,
